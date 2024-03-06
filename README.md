@@ -1,6 +1,7 @@
 # Houda-Chairi 👩‍💻
 
-Welcome to my GitHub page! 👋 I'm Houda Chairi, and this is where I share my projects and contributions. Feel free to explore and reach out if you have any questions or feedback.
+Welcome to my GitHub page! 👋 I'm Houda Chairi, and this is where I share my projects and contributions. 
+Feel free to explore and reach out if you have any questions or feedback.
 
 ## About Me
 
